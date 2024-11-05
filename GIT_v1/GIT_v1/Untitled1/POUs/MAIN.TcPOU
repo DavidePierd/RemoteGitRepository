@@ -5,6 +5,7 @@
 VAR
 	Pippo	: BOOL;
 	Paperino : BOOL;
+	Pluto	: BBOL;
 END_VAR
 ]]></Declaration>
     <Implementation>
